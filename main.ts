@@ -46,7 +46,7 @@ let Wall_0: game.LedSprite = null
 let rng = 0
 let bird: game.LedSprite = null
 Reset_wall()
-let current_score = 13
+let current_score = 0
 game.setScore(0)
 let wall_time = 6
 bird = game.createSprite(1, 2)
